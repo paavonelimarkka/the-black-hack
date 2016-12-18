@@ -1,6 +1,6 @@
 # The Black Hack
 
-(text based on the Black Hack v1.2 - 2016-04-03)
+(teksti perustuu Black Hack v1.2 säännöstöön - 2016-04-03)
 
 An ‘OSR’ First Edition Hack  
 developed by  
@@ -10,21 +10,41 @@ DAVID BLACK
 
 With elements borrowed from ‘original’ era rpg gaming and modern d20 theory.  
 
+	a) Sisältää sekä roolipelien alkuperäisen aikakauden elementtejä, että modernia d20 teoriaa.
+
+	b) Sisältää elementtejä niin roolipelien alkuperäisen aikakauden ajalta, kuin myös modernia d20 teoriaa.
+
+
 **THANKS TO**  
 
+	** KIITTÄEN **
+	** KIITOKSET
+
 In no particular order - Peter Regan, Tony Tucker, Olav Nygård, Chris McDowall, Mick Reddick, Eric Nieudan, Brian Wille, Jarret Crader, Greg Welty, All the work the Grognards have put into the game, UK OSR Hangouts crew, Everyone who backed the Kickstarter (you're all ace!) plus all those other people who had a hand in developing the hobby we get so much mileage from.
+
+	Sattumanvaraisessa järjestyksessä - Peter Regan, Tony Tucker, Olav Nygård, Chris McDowall, Mick Reddick, Eric Nieudan, Brian Wille, Jarret Crader, Greg Welty, kaikki se työ mitä Grognards onlaittanut tähän peliin, UK OSR Hangouts crew, kaikki Kickstarteria tukeneet (you're all ace!) plus kaikki ne muut ihmiset jotka ovat olleet kehittämässä harrastusta josta me kaikki saamme niin paljon.
 
 ----
 
 ## What’s this?
 
+	## Mikä tämä on?
+
 The Black Hack (TBH) is a traditional tabletop roleplaying game, played with paper, pencils and dice - it uses that Original 1970s Fantasy Roleplaying Game as a base. But it adds and takes away elements to make it a distinct streamlined flavour of the original roleplaying game.
 
+	The Black Hack (TBH) on perinteinen pöytäroolipeli jota pelataan paperilla, kynillä, sekä nopilla. Se käyttää pohjanaan *Original 1970s Fantasy Roleplaying Game* peliä, johon on lisätty ja josta on poistettu elementtejä tehdäkseen siitä erottuvan ja suoraviivaisemman muunnoksen alkuperäisestä roolipelistä.
+
 ## The core mechanic
+
+	## Pelin ydin
 
 Everything a character might possibly attempt that could result in failure is resolved by testing attribute stats, in order to successfully test a stat - a player must roll ***below*** it on a d20.
 
 Monsters don’t make tests - a character must avoid their attacks by making a test, the only time a monster would roll is for damage.
+
+	Kaikki mitä hahmo voi mahdollisesti yrittää tehdä ja mikä voi epäonnistua, selvitetään testaamalla hahmon attribuuttia.Onnistuakseen testissä pelaajan pitää saada 20-kylkisellä nopalla alle testattavan attribuutin.
+
+	Hirviöt eivät tee testejä - hahmot estävät niiden iskut testaamalla sopivaa attribuuttia. Hirviöt heittävät noppaa vain tehdessään vahinkoa.
 
 ## Rolling stats
 
