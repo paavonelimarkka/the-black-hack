@@ -23,7 +23,7 @@ The Black Hack (TBH) on perinteinen pöytäroolipeli jota pelataan paperilla, ky
 
 ## Pelin ydin
 
-Kaikki mitä hahmo voi mahdollisesti yrittää tehdä ja missä hahmo voi epäonnistua, selvitetään testaamalla hahmon attribuuttia. Onnistuakseen testissä pelaajan pitää saada 20-tahoisella nopalla alle testattavan attribuutin.
+Kaikki mitä hahmo voi mahdollisesti yrittää tehdä ja missä hahmo voi epäonnistua, selvitetään testaamalla hahmon kykyarvoa. Onnistuakseen testissä pelaajan pitää saada 20-tahoisella nopalla alle testattavan attribuutin.
 
 Hirviöt eivät tee testejä - hahmot estävät niiden iskut testaamalla sopivaa attribuuttia. Hirviöt heittävät noppaa vain tehdessään vahinkoa.
 
@@ -31,9 +31,9 @@ Hirviöt eivät tee testejä - hahmot estävät niiden iskut testaamalla sopivaa
 
 **Kykyarvot** tehdään heittämällä 3d6 järjestyksessä **Voima(VMA), Ketteryys(KET), Ruumiinkunto(RUK), Älykkyys(ÄLY), Viisaus(VII), Karisma(KAR)**. Jos kykyarvoksi tulee 15+, seuraava kykyarvo heitetään 2d6+2, jonka jälkeen jatketaan 3d6 kunnes heitetään toinen 15+. Kun kaikki kykyarvot on heitetty, pelaaja voi vaihtaa 2 kykyä päinsä.
 
-## Choose a class
+## Hahmoluokan valinta
 
-There are 4 choices. Warrior, Cleric, Conjurer, Thief - your class determines how much damage you do, your Hit Points and unique abilities.
+Hahmoluokkia on 4. Soturi, Pappi, Velho, Varas - hahmoluokkasi kertoo kuinka paljon vahinkoa teet, paljonko sinulla on kestopisteitä ja mitä hahmokohtaisia kykyjä sinulla on.
 
 ## Buy equipment
 
