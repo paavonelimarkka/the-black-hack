@@ -23,13 +23,13 @@ The Black Hack (TBH) on perinteinen pöytäroolipeli jota pelataan paperilla, ky
 
 ## Pelin ydin
 
-Kaikki mitä hahmo voi mahdollisesti yrittää tehdä ja mikä voi epäonnistua, selvitetään testaamalla hahmon attribuuttia.Onnistuakseen testissä pelaajan pitää saada 20-kylkisellä nopalla alle testattavan attribuutin.
+Kaikki mitä hahmo voi mahdollisesti yrittää tehdä ja missä hahmo voi epäonnistua, selvitetään testaamalla hahmon attribuuttia. Onnistuakseen testissä pelaajan pitää saada 20-tahoisella nopalla alle testattavan attribuutin.
 
 Hirviöt eivät tee testejä - hahmot estävät niiden iskut testaamalla sopivaa attribuuttia. Hirviöt heittävät noppaa vain tehdessään vahinkoa.
 
-## Rolling stats
+## Kykyarvojen heittäminen
 
-**Stats** are generated with 3d6 in the following order **Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), Charisma (CHA)**. If a stat of 15+ is rolled the next must be rolled with 2d6 + 2, then continue with 3d6 until the end or another 15+ is rolled. Once all stats are generated 2 may be swapped around.
+**Kykyarvot** tehdään heittämällä 3d6 järjestyksessä **Voima(VMA), Ketteryys(KET), Ruumiinkunto(RUK), Älykkyys(ÄLY), Viisaus(VII), Karisma(KAR)**. Jos kykyarvoksi tulee 15+, seuraava kykyarvo heitetään 2d6+2, jonka jälkeen jatketaan 3d6 kunnes heitetään toinen 15+. Kun kaikki kykyarvot on heitetty, pelaaja voi vaihtaa 2 kykyä päinsä.
 
 ## Choose a class
 
