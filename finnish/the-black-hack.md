@@ -39,20 +39,22 @@ Hahmoluokkia on 4. Soturi, Pappi, Velho ja Varas. Hahmon luokka määrittää ha
 
 Aloittaessa hahmoilla 3d6 * 10 kolikkoa jolla he voivat hankkia varusteita. Hahmoilla on myös vaatteet sekä hahmoluokan määrittelemä yhden käden ase.
 
-## Armor points
+## Suojapisteet
 
-Armor provides protection by reducing all incoming damage. Each type will reduce damage by a limited amount. **Armor Points** are regained after a character rests. Once the player or monster has used armor to absorb its maximum amount, they are too tired or wounded to make effective use of it again - they then begin taking full damage.
+Suojapisteet vähentää kaikkea hahmoon kohdistuvaa vahinkoa. Eri tyypin suojat vähentävät vahinkoa eri verran. Kun hahmo tai hirviö on vähentäynt vahinkoa suojapisteiden verran, on se liian väsynyt käyttämään suojaa enää tehokkaasti. Tämän jälkeen se ottaa täyden vahingon.
 
-|     Type     | Points |
-|:------------:|:------:|
-|   Gambeson   |   2    |
-|   Leather    |   4    |
-|  Chain Mail  |   6    |
-| Plate & Mail |   8    |
-| Small shield |   2    |
-| Large shield |   4    |
+|     Tyyppi       | Pisteet |
+|:----------------:|:-------:|
+|  Kangaspanssari  |    2    |
+|  Nahkapanssari   |    4    |
+| Silmukkapanssari |    6    |
+|   Levypanssari   |    8    |
+|   Pieni Kilpi    |    2    |
+|   Suuri Kilpi    |    4    |
 
 Monsters have 1 point of armor for every **HD** above 1, to figure this out quickly simply -1 from their **HD** - They can also carry shields. (All to a maximum of 10)
+
+Hirviöillä on 1 piste suojaa jokaista yli yhden menevää kestonoppaa kohden. Voit selvittää tämän nopeasti vähentämällä yhden niiden kestonoppien määrästä. Hirviötkin voivat käyttää suojia (maksimissaan 10 pistettä). 
 
 ## Armor proficiency
 
