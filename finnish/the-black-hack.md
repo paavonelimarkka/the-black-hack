@@ -41,7 +41,7 @@ Aloittaessa hahmoilla 3d6 * 10 kolikkoa jolla he voivat hankkia varusteita. Hahm
 
 ## Suojapisteet
 
-Suojapisteet vähentää kaikkea hahmoon kohdistuvaa vahinkoa. Eri tyypin suojat vähentävät vahinkoa eri verran. Kun hahmo tai hirviö on vähentäynt vahinkoa suojapisteiden verran, on se liian väsynyt käyttämään suojaa enää tehokkaasti. Tämän jälkeen se ottaa täyden vahingon.
+Suojapisteet vähentää kaikkea hahmoon kohdistuvaa vahinkoa. Eri tyypin suojat vähentävät vahinkoa eri verran. Kun hahmo tai hirviö on vähentänyt vahinkoa suojapisteiden verran, on se liian väsynyt käyttämään suojaa enää tehokkaasti. Tämän jälkeen se ottaa täyden vahingon.
 
 |     Tyyppi       | Pisteet |
 |:----------------:|:-------:|
@@ -51,8 +51,6 @@ Suojapisteet vähentää kaikkea hahmoon kohdistuvaa vahinkoa. Eri tyypin suojat
 |   Levypanssari   |    8    |
 |   Pieni Kilpi    |    2    |
 |   Suuri Kilpi    |    4    |
-
-Monsters have 1 point of armor for every **HD** above 1, to figure this out quickly simply -1 from their **HD** - They can also carry shields. (All to a maximum of 10)
 
 Hirviöillä on 1 piste suojaa jokaista yli yhden menevää kestonoppaa kohden. Voit selvittää tämän nopeasti vähentämällä yhden niiden kestonoppien määrästä. Hirviötkin voivat käyttää suojia (maksimissaan 10 pistettä). 
 
