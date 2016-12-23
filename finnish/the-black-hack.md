@@ -35,9 +35,9 @@ Hirviöt eivät tee testejä - hahmot estävät niiden iskut testaamalla sopivaa
 
 Hahmoluokkia on 4. Soturi, Pappi, Velho ja Varas. Hahmon luokka määrittää hahmon käyttämän vahinkonopan, osumapisteet ja muut hahmokohtaiset erikoiskyvyt.
 
-## Buy equipment
+## Varusteiden ostaminen
 
-Every new character starts with 3d6 x 10 coins with which to buy their equipment. They also start with a set of clothes and a one handed weapon as allowed by their class.
+Aloittaessa hahmoilla 3d6 * 10 kolikkoa jolla he voivat hankkia varusteita. Hahmoilla on myös vaatteet sekä hahmoluokan määrittelemä yhden käden ase.
 
 ## Armor points
 
