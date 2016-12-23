@@ -33,7 +33,7 @@ Hirviöt eivät tee testejä - hahmot estävät niiden iskut testaamalla sopivaa
 
 ## Hahmoluokan valinta
 
-Hahmoluokkia on 4. Soturi, Pappi, Velho, Varas - hahmoluokkasi kertoo kuinka paljon vahinkoa teet, paljonko sinulla on kestopisteitä ja mitä hahmokohtaisia kykyjä sinulla on.
+Hahmoluokkia on 4. Soturi, Pappi, Velho ja Varas. Hahmon luokka määrittää hahmon käyttämän vahinkonopan, osumapisteet ja muut hahmokohtaiset erikoiskyvyt.
 
 ## Buy equipment
 
